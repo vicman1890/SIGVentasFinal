@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<configuration>
+    <configSections>
+    </configSections>
+  <startup useLegacyV2RuntimeActivationPolicy="true">
+    <supportedRuntime version="v4.0"/>
+  </startup>
+    <connectionStrings>
+        <add name="FACHASA.Properties.Settings.con" connectionString="Data Source=VICMAN-PC\SQLEXPRESS;Initial Catalog=fachasasys;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
